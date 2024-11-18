@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **Class 11 student** with a passion for **te
 - ☁️ Exploring the world of **Cloud Technologies**.
 - 🎯 Participating in coding challenges on **LeetCode** and **GeeksforGeeks**.
 - 🏅 Proudly certified in **Problem Solving (Basic)** from **HackerRank**.
-- 🎓 Expected school graduation: **2030**.
+- 🎓 Expected College graduation: **2030**.
 
 ---
 
