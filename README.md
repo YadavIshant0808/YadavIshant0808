@@ -1,29 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ishant Yadav</h1>
-<h3 align="center">A passionate to work on Ai project of python in India.</h3>
+<div align="center">
+  <img src="https://img.icons8.com/dusk/64/000000/programming.png" alt="Coding Icon"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavishant0808&label=Profile%20views&color=0e75b6&style=flat" alt="yadavishant0808" img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
-                   
-                  "/> </p>
+# 👋 Hello, I'm **Ishant Yadav!** 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadavishant0808" alt="yadavishant0808" /></a> </p>
+Welcome to my GitHub profile! I'm a **Class 11 student** with a passion for **technology, software development, and continuous learning**. 🚀
 
-- 🌱 I’m currently learning **Python**
+---
 
-- 💬 Ask me about **HTML, Python,C**
+<div align="center">
+  <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI Icon"/>
+</div>
 
-- 📫 How to reach me **sciencebook08082000@gmail.com**
+### 🚀 About Me
+- 🌱 Currently diving deep into **Web Development**, **Data Analysis**, **Artificial Intelligence**, and **Machine Learning**.
+- 💻 I'm skilled in **Python**, **HTML5**, **CSS3**, **JavaScript**, and **Firebase**.
+- ☁️ Exploring the world of **Cloud Technologies**.
+- 🎯 Participating in coding challenges on **LeetCode** and **GeeksforGeeks**.
+- 🏅 Proudly certified in **Problem Solving (Basic)** from **HackerRank**.
+- 🎓 Expected school graduation: **2030**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishant-yadav-335716308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishant-yadav-335716308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ishantyadav08081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ishantyadav08081" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ **Skills & Technologies**
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> 
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavishant0808&show_icons=true&locale=en&layout=compact" alt="yadavishant0808" /></p>
+- **Programming Languages**: Python 🐍
+- **Web Technologies**: HTML5, CSS3, JavaScript, Firebase ⚡
+- **Problem-Solving**: HackerRank Certified 🌟
+- **Areas of Interest**: Data Analysis, AI, ML, and Web Development 🌐
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavishant0808&show_icons=true&locale=en" alt="yadavishant0808" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavishant0808&" alt="yadavishant0808" /></p>
+### 📈 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YadavIshant0808&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadavIshant0808&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+---
+
+### 🌐 **Let's Connect!**
+- 📧 **Email**: [ishantyadav08082007@gmail.com](mailto:ishantyadav08082007@gmail.com)
+- 💼 **LinkedIn**: [Ishant Yadav](https://www.linkedin.com/in/ishant-yadav-335716308)
+- 🖥️ **GitHub**: [YadavIshant0808](https://github.com/YadavIshant0808)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ishant-yadav-335716308">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/YadavIshant0808">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+### ⚡ **Fun Fact**
+> "I started coding early and have been constantly exploring new areas in tech, from **Data Science** to **Cloud Solutions**. I believe in learning something new every day!" 🌟
+
+Feel free to connect, collaborate, or just say hi! I'm always open to exploring new opportunities and projects. 🤝
+
+---
+
+<div align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-rocket-marketing-flaticons-lineal-color-flat-icons.png" alt="Rocket"/>
+</div>
