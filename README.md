@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.icons8.com/dusk/64/000000/programming.png" alt="Coding Icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Coding Icon" width="64" height="64"/>
 </div>
 
 # 👋 Hello, I'm **Ishant Yadav!** 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **Class 11 student** with a passion for **te
 ---
 
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI Icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/artificialintelligence/artificialintelligence-plain.svg" alt="AI Icon" width="96" height="96"/>
 </div>
 
 ### 🚀 About Me
@@ -18,17 +18,17 @@ Welcome to my GitHub profile! I'm a **Class 11 student** with a passion for **te
 - ☁️ Exploring the world of **Cloud Technologies**.
 - 🎯 Participating in coding challenges on **LeetCode** and **GeeksforGeeks**.
 - 🏅 Proudly certified in **Problem Solving (Basic)** from **HackerRank**.
-- 🎓 Expected College graduation: **2030**.
+- 🎓 Expected college graduation: **2030**.
 
 ---
 
 ### 🛠️ **Skills & Technologies**
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> 
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> 
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48"/>
 </div>
 
 - **Programming Languages**: Python 🐍
@@ -53,10 +53,10 @@ Welcome to my GitHub profile! I'm a **Class 11 student** with a passion for **te
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ishant-yadav-335716308">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/YadavIshant0808">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -70,5 +70,5 @@ Feel free to connect, collaborate, or just say hi! I'm always open to exploring 
 ---
 
 <div align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-rocket-marketing-flaticons-lineal-color-flat-icons.png" alt="Rocket"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocket/rocket-original.svg" alt="Rocket Icon" width="64"/>
 </div>
