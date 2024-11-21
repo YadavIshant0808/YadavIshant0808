@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm a **Class 11 student** with a passion for **te
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> 
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img
 src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Language"/>
 </div>
 
