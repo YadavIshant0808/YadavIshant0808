@@ -1,4 +1,4 @@
-div align="center">
+
   <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-coding-web-development-flatart-icons-outline-flatarticons.png" alt="Coding Icon"/>
 </div>
 
