@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a **Class 11 student** with a passion for **te
 
 ### 🚀 About Me
 - 🌱 Currently diving deep into **Web Development**, **Data Analysis**, **Artificial Intelligence**, and **Machine Learning**.
-- 💻 I'm skilled in **Python**, **HTML5**, **CSS3**, **JavaScript**, **C (Basic)**, and **Firebase**.
+- 💻 I'm skilled in **Python**, **HTML5**, **CSS3**, **JavaScript**, and **Firebase**.
 - ☁️ Exploring the world of **Cloud Technologies**.
-- 🎯 Participating in coding challenges on **LeetCode**, **GeeksforGeeks**, and **HackerRank**.
+- 🎯 Participating in coding challenges on **LeetCode** and **GeeksforGeeks**.
 - 🏅 Proudly certified in **Problem Solving (Basic)** from **HackerRank**.
 - 🎓 Expected school graduation: **2030**.
 
@@ -29,10 +29,11 @@ Welcome to my GitHub profile! I'm a **Class 11 student** with a passion for **te
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> 
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Language"/>
+<img
+src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Language"/>
 </div>
 
-- **Programming Languages**: Python 🐍, C (Basic) 🔵
+- **Programming Languages**: Python 🐍,C (Basic) 🔵
 - **Web Technologies**: HTML5, CSS3, JavaScript, Firebase ⚡
 - **Problem-Solving**: HackerRank Certified 🌟
 - **Areas of Interest**: Data Analysis, AI, ML, and Web Development 🌐
@@ -60,7 +61,7 @@ Welcome to my GitHub profile! I'm a **Class 11 student** with a passion for **te
   <a href="https://github.com/YadavIshant0808">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/ishantyadav08081">
+	 <a href="https://www.hackerrank.com/profile/ishantyadav08081">
     <img src="https://img.icons8.com/ios-filled/50/4a90e2/hackerrank.png" alt="HackerRank"/>
   </a>
 </div>
