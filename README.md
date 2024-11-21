@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.flaticon.com/free-icon/coding_1006363?term=programming&page=1&position=12&origin=tag&related_id=1006363" alt="Coding Icon"/>
+  <img src="https://primer.style/foundations/icons/file-code-24" alt="Coding Icon"/>
 </div>
 
 # 👋 Hello, I'm **Ishant Yadav!** 
@@ -70,5 +70,5 @@ Feel free to connect, collaborate, or just say hi! I'm always open to exploring 
 ---
 
 <div align="center">
-  <img src="https://www.flaticon.com/free-icon/startup_1067357?term=rocket&page=1&position=4&origin=search&related_id=1067357" alt="Rocket"/>
+  <img src="https://primer.style/foundations/icons/rocket-24" alt="Rocket"/>
 </div>
