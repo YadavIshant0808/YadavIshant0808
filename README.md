@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://primer.style/foundations/icons/file-code-24" alt="Coding Icon"/>
+div align="center">
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-coding-web-development-flatart-icons-outline-flatarticons.png" alt="Coding Icon"/>
 </div>
 
 # 👋 Hello, I'm **Ishant Yadav!** 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **Class 11 student** with a passion for **te
 ---
 
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI Icon"/>
+  <img src="https://img.icons8.com/ios-filled/100/000000/rocket.png" alt="Rocket Icon"/>
 </div>
 
 ### 🚀 About Me
@@ -70,5 +70,5 @@ Feel free to connect, collaborate, or just say hi! I'm always open to exploring 
 ---
 
 <div align="center">
-  <img src="https://primer.style/foundations/icons/rocket-24" alt="Rocket"/>
+  <img src="https://img.icons8.com/ios-filled/100/000000/rocket.png" alt="Rocket Icon"/>
 </div>
