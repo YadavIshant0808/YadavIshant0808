@@ -1,0 +1,51 @@
+name: Regenerate terminal hero
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # 04:00 UTC on the 1st of every month — this asset only changes when
+    # config/profile.json changes, so a monthly cadence is enough to catch
+    # config edits that land without a direct push to main triggering it
+    # some other way (e.g. edits via the GitHub web UI on a protected path).
+    - cron: "0 4 1 * *"
+  push:
+    branches: [main]
+    paths:
+      - "config/profile.json"
+      - "scripts/generate_terminal.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: terminal-regen
+  cancel-in-progress: true
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate terminal.svg
+        run: python3 scripts/generate_terminal.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets/terminal.svg; then
+            echo "No changes to assets/terminal.svg — skipping commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/terminal.svg
+          git commit -m "chore: regenerate terminal.svg [automated]"
+          git push

@@ -1,0 +1,77 @@
+name: Generate profile summary cards
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Once a day — stats/activity data changes daily.
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-summary
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # IMPORTANT — read before first run:
+          # The default GITHUB_TOKEN does not carry enough scope for this
+          # action to read full commit/contribution history. You must
+          # create a Personal Access Token (classic, scope: repo + read:user
+          # is sufficient) and store it as a repository secret named
+          # SUMMARY_GITHUB_TOKEN under Settings -> Secrets and variables ->
+          # Actions. This matches the upstream project's own setup
+          # instructions: https://github.com/vn7n24fzkq/github-profile-summary-cards
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: YadavIshant0808
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5
+          # UTC_OFFSET 5 approximates IST (UTC+5:30) for the "productive
+          # time" card; the action's UTC_OFFSET input is integer-only, so
+          # this is the nearest whole-hour value, not an exact match.
+          EXCLUDE: ""
+          AUTO_PUSH: false
+          # AUTO_PUSH is set to false here (upstream default is true)
+          # because it would otherwise commit directly to whatever branch
+          # this workflow runs on using its own logic. Keeping it false
+          # and doing the commit step below ourselves means every asset
+          # in this repo is written to the same assets/generated path
+          # convention, and the commit only happens when content actually
+          # changed.
+
+      - name: Move cards into repo asset path
+        run: |
+          mkdir -p assets/generated/profile-summary
+          rsync -a --delete profile-summary-card-output/ assets/generated/profile-summary/
+          # Upstream writes cards to ./profile-summary-card-output/<theme>/
+          # e.g. profile-summary-card-output/github_dark/0-profile-details.svg
+          # profile-summary-card-output/github_dark/1-repos-per-language.svg
+          # profile-summary-card-output/github_dark/2-most-commit-language.svg
+          # profile-summary-card-output/github_dark/3-stats.svg
+          # profile-summary-card-output/github_dark/4-productive-time.svg
+          # This mirrors that whole tree under assets/generated/profile-summary/
+          # so README.md paths stay stable regardless of theme name.
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets/generated/profile-summary; then
+            echo "No changes to generated cards — skipping commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated/profile-summary
+          git commit -m "chore: regenerate profile summary cards [automated]"
+          git push
