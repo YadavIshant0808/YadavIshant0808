@@ -1,0 +1,49 @@
+{
+  "identity": {
+    "name": "Ishant Yadav",
+    "github_username": "YadavIshant0808",
+    "linkedin_username": "yadavishant1",
+    "role": "AI & Backend Developer",
+    "location": "Greater Noida, Uttar Pradesh, India",
+    "institution": "Dronacharya Group of Institutions, Greater Noida"
+  },
+  "terminal": {
+    "prompt": "ishant@github:~$",
+    "commands": [
+      {
+        "cmd": "whoami",
+        "output": ["Ishant Yadav"]
+      },
+      {
+        "cmd": "role",
+        "output": ["AI & Backend Developer"]
+      },
+      {
+        "cmd": "cat current_focus.txt",
+        "output": [
+          "Agentic AI & AI Agents",
+          "Retrieval-Augmented Generation (RAG)",
+          "LangChain / LangGraph",
+          "FastAPI backend systems",
+          "PostgreSQL / Redis",
+          "Developer tooling"
+        ]
+      },
+      {
+        "cmd": "status",
+        "output": ["Building AI-native backend systems..."]
+      }
+    ]
+  },
+  "theme": {
+    "bg": "#0a0a0a",
+    "bg_alt": "#111111",
+    "border": "#2a1518",
+    "crimson": "#dc2f3f",
+    "crimson_dim": "#7a1b24",
+    "crimson_glow": "#ff3b4e",
+    "text_primary": "#e6e6e6",
+    "text_dim": "#8a8a8a",
+    "text_muted": "#5c5c5c"
+  }
+          }
